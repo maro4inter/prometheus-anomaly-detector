@@ -14,7 +14,7 @@ dateparser = "*"
 mlflow = "*"
 holidays = "==0.9.12"
 keras = "*"
-numpy = "1.19.2"
+numpy = "*"
 scikit-learn = "*"
 tensorflow = "==1.14"
 
